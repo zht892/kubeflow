@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/kfam:vmaster-g9f3bfd00
